@@ -4,7 +4,7 @@
     "client": "M/s. Kitara Garages Private Limited",
     "invNo": "DA/25-26/369",
     "date": "2025-12-10",
-    "total": "0.00",
+    "total": "116703.00",
     "ref": "",
     "place": "Gandhi path",
     "addr": "Plot No. 12, Industrial Area, Jaipur",
@@ -16,9 +16,9 @@
     },
     "items": [
       {
-        "desc": "",
-        "qty": "",
-        "price": "",
+        "desc": "hello",
+        "qty": "999",
+        "price": "99",
         "uom": "Sft"
       }
     ]
