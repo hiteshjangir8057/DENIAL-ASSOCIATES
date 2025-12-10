@@ -4,7 +4,7 @@
     "client": "Unknown",
     "invNo": "",
     "date": "2025-12-10",
-    "total": "0.00",
+    "total": "2328300.00",
     "ref": "",
     "place": "Gandhi path",
     "addr": "Plot No. 12, Industrial Area, Jaipur",
@@ -16,9 +16,9 @@
     },
     "items": [
       {
-        "desc": "",
-        "qty": "",
-        "price": "",
+        "desc": "pppppppp",
+        "qty": "4444",
+        "price": "444",
         "uom": "Sft"
       }
     ]
