@@ -1,1 +1,1 @@
-{"students":[],"feeRecords":[],"feeStructure":[{"class":"1,2,3,4,5,6,7,8,910","type":"Fixed","tuition":"2000","transport":"500"}]}
+{"students":[],"feeRecords":[],"feeStructure":[{"class":"1,2,3,4,5,6,7,8,910","type":"Fixed","tuition":"2000","transport":"500"},{"class":"11,12","type":"Subject","tuition":"1000","transport":"500"}]}
