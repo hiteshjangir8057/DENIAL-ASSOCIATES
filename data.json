@@ -22,5 +22,35 @@
         "uom": "Sft"
       }
     ]
+  },
+  {
+    "id": 1765436720262,
+    "client": "M/s. Kitara Garages Private Limited",
+    "invNo": "DA/25-26/369",
+    "date": "2025-12-11",
+    "total": "407100.00",
+    "ref": "",
+    "place": "Gandhi path",
+    "addr": "Plot No. 12, Industrial Area, Jaipur",
+    "gst": "08AALCK2191A1ZP",
+    "rates": {
+      "c": "",
+      "s": "",
+      "i": "18"
+    },
+    "items": [
+      {
+        "desc": "Paver block ",
+        "qty": "5000",
+        "price": "62",
+        "uom": "Sft"
+      },
+      {
+        "desc": "Gsp",
+        "qty": "1000",
+        "price": "35",
+        "uom": "Sft"
+      }
+    ]
   }
 ]
