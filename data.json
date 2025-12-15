@@ -1,1 +1,1 @@
-{"students":[],"feeRecords":[],"feeStructure":[{"class":"10","type":"Fixed","tuition":"2000","transport":"500"}]}
+{"students":[{"id":"STU-1001","name":"ANCHAL ","class":"9th ","subjects":"","section":"","father":"Mr. Hajari Lal ","mother":"***","mobile":"7737714878","address":"Pilani ","baseFee":"","transportFee":"","photo":""}],"feeRecords":[],"feeStructure":[{"class":"10","type":"Fixed","tuition":"2000","transport":"500"}]}
