@@ -1,8 +1,8 @@
 [
   {
-    "id": 1766170827351,
-    "client": "M/s. Kitara Garages Private Limited",
-    "invNo": "DA/25-26/369",
+    "id": 1766170836686,
+    "client": "Unknown",
+    "invNo": "",
     "date": "2025-12-19",
     "total": "0.00",
     "ref": "",
@@ -15,18 +15,6 @@
       "i": "0"
     },
     "items": [
-      {
-        "desc": "",
-        "qty": "",
-        "price": "",
-        "uom": "Sft"
-      },
-      {
-        "desc": "",
-        "qty": "",
-        "price": "",
-        "uom": "Sft"
-      },
       {
         "desc": "",
         "qty": "",
